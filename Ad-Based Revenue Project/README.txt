@@ -1,6 +1,7 @@
 Process for Ad-Based Revenue Project
 
 *Click on the shortcut Interactive Browser Report to view the report if you do not have PowerBI to run the .pbix file*
+The SQL queries work on the AdBasedRevenueUserData dataset, after it has been cleaned in Excel by the process outlined below.
 
 Data Cleaning
 
